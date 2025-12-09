@@ -16,11 +16,10 @@ Hi, I'm a **Backend Developer** passionate about building scalable and efficient
 ## 📂 Projects
 
 Here are some of my notable projects:
-### [Eraquos](https://github.com/Eraquos/Eraquos)
-- Personal configuration repository and small utilities
-- Tech stack: Python, Bash
-- Includes scripts and tools to automate tasks
-
+### [Expense Tracker API](https://github.com/Eraquos/Expense-Tracker-API-)
+- Backend API for tracking personal expenses
+- Tech stack: Python, FastAPI, SQLAlchemy
+- Features: User registration and login with JWT, CRUD for expenses, filtering by date and category
 ---
 
 ## 📈 Stats
