@@ -22,12 +22,6 @@ Here are some of my notable projects:
 - Features: User registration and login with JWT, CRUD for expenses, filtering by date and category
 ---
 
-## 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eraquos&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact
 
 - Email: maxym.martynets@gmail.com
