@@ -25,7 +25,7 @@ Here are some of my notable projects:
 ## 📫 Contact
 
 - Email: maxym.martynets@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/maxym-martynets/] 
+- LinkedIn: https://www.linkedin.com/in/maxym-martynets/
 - Portfolio / website: 
 
 ---
