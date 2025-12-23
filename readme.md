@@ -7,7 +7,7 @@ Hi, I'm a **Backend Developer** passionate about building scalable and efficient
 ## 🛠 Tech Stack
 
 - **Languages:** Python, SQL  
-- **Frameworks:** Django, FastApi
+- **Frameworks:** Django, FastAPI
 - **Databases:** PostgreSQL
 - **Tools:** Git, Docker, REST APIs, CI/CD, Unit Testing
 
